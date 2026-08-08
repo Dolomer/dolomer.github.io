@@ -1,3 +1,6 @@
 User-agent: ClaudeBot
 User-agent: Googlebot
+User-agent: Slurp
+User-agent: DuckDuckBot
 Disallow: /
+Disallow: /home/openAF/org.dolomer/
