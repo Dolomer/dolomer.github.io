@@ -1,0 +1,3 @@
+User-agent: ClaudeBot
+User-agent: Googlebot
+Disallow: /
